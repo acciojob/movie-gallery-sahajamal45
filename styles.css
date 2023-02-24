@@ -1,2 +1,12 @@
+.row1{
+		
+}
 
-/* Your CSS Code here. */
+.container-fluid{
+	background-color: black;
+	width:25px;
+/* 	height: 20px; */
+	display: flex;
+flex-direction: row;
+	
+}
